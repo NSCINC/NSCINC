@@ -9,9 +9,11 @@ I aim to make our mark on the world, not only by creating technology but also by
 
 ## Our Projects !
 
-- **GeekifyApp**: Turn your routine into an epic adventure with our app full of geek references.
-- **DungeonMaster**: Create your own RPG adventures with our epic plot generator.
-- **ArcadeMania**: Relive the nostalgia of classic games with our collection of reimagined games.
+-DAPPX
+-RUBYX LEANGUEGEM NLP
+-BLOCKCAHIN
+-SOFTWARE
+-GAMES
 
 ## Contribute 🤝
 
